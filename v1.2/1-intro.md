@@ -1,22 +1,3 @@
-<!--
-The eduScrum Guide
-
-“The rules of the Game”
-Developed by the eduScrum team
-
-September 2015
-
-Written by Arno Delhij, Rini van Solingen and Willy Wijnands 
-
-Reviewed by Jeff Sutherland
-
-
-
-Version 1.2 - September 2015
-Reviewed by: Jeff Sutherland
-English Translation: Serge Beaumont, Arno Delhij and Theo Gerrits
--->
-
 <!--Introduction-->
 # イントロダクション
 
