@@ -291,7 +291,7 @@ In the Student Team
 	the eduScrum Master is responsible for the "Flip" (a synonym for the Scrum Board - one sheet of flipchart paper). 
 The eduScrum Master ensures that the "Flip" is available and up to date. However, performing the actual work is the responsibility of the whole team. The eduScrum Master also supports the Product Owner and the Student Team.
 -->
-学生チームでは、eduScrumマスターは「貼りもの」（スクラムボードと同義。1枚のフリップチャートのこと）に責任を持つ。eduScrumマスターは「貼りもの」が使用可能で、最新状態であることに責任を持つ。ただし、実際の作業はチーム全体の責任である。また、eduScrumマスターはプロダクトオーナーや学生チームを支援する。
+学生チームでは、eduScrumマスターは「フリップ」（スクラムボードと同義。1枚のフリップチャートのこと）に責任を持つ。eduScrumマスターは「フリップ」が使用可能で、最新状態であることに責任を持つ。ただし、実際の作業はチーム全体の責任である。また、eduScrumマスターはプロダクトオーナーや学生チームを支援する。
 
 <!--
 The eduScrum Master role is by default the responsibility of the Product Owner. However the better teams get, 
@@ -310,7 +310,7 @@ eduScrumマスターは、さまざまな形でプロダクトオーナーを支
 		by making the "Flip" available and ensuring that it is up to date
 	facilitating eduScrum events when asked or needed.
 -->
-* 「貼りもの」を使用可能かつ最新状態にして、進捗の透明性を生み出す。
+* 「フリップ」を使用可能かつ最新状態にして、進捗の透明性を生み出す。
 * 依頼されたとき、あるいは必要なときに、eduScrumイベントをファシリテートする。
 
 <!-- ### eduScrum Master service to the Student Team -->
@@ -325,7 +325,7 @@ eduScrumマスターは、さまざまな形で学生チームを支援する。
 	facilitating cross-team collaboration
 -->
 
-* 「貼りもの」を使用可能かつ最新状態にして、進捗の透明性を生み出す。
+* 「フリップ」を使用可能かつ最新状態にして、進捗の透明性を生み出す。
 * eduScrumが正しく実行されるようにする（eduScrumイベントの開始およびファシリテーション、イベント内容の修正、道具の正しい利用）。
 * チームを横断した協力を促す。
 
