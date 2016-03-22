@@ -17,8 +17,8 @@ The Product Backlog is ordered based on the Learning Program, thus the learning 
 -->
 プロダクトバックログは、コース全体の学習ゴールと勉強法が並べられた一覧（すべて）であり、政府の定めた主ゴールに準拠している。
 プロダクトオーナーは、プロダクトバックログの内容・可用性・並び順に責任を持つ。
-スクラムではプロダクトバックログは決して完成しないが、eduScrumはその逆で、主ゴールはあらかじめわかっている。学習ゴールも多くの場合は同様である。主ゴールは事前に決めるものであり、学習ゴールは一様ではないものの明確である。とはいえ、学習するにつれて得られた知見に基づいて勉強法は常に調整される。これはスクラムの原則である「検査と適応」に従っている。プロダクトバックログは勉強法について動的であり、学生が効果的に協力して教材を理解するために必要なものを求めて絶えず変化する。
-プロダクトバックログは学習プログラムに基づいて並べられるため、学習ゴールとストーリー（勉強法）は総合的には政府の課した学習プログラムに従うこととなる。並び順が最も上にあるプロダクトバックログアイテムは今後のスプリントに関わるものであり、下のものほど後に取りかかるものとなる。並び順が上の項目ほど明確で詳細である。並び順が下の項目ほど不正確で詳細でない。今後のスプリントで学生チームが従事するプロダクトバックログアイテムは、スプリントのタイムボックスで「完成」できるように分解して粒度を小さくしておく。すなわち、教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得らえるようになるのだ。
+スクラムではプロダクトバックログは決して完成しないが、eduScrumはその逆で、主ゴールはあらかじめわかっている。学習ゴールも多くの場合は同様である。主ゴールは事前に決めるものであり、学習ゴールは一様ではないものの明確である。とはいえ、学習するにつれて得られた知見に基づいて勉強法は常に調整される。これはスクラムの原則である「検査と適応」に従っている。プロダクトバックログは勉強法について動的であり、学生が効果的に協力して学習教材を理解するために必要なものを求めて絶えず変化する。
+プロダクトバックログは学習プログラムに基づいて並べられるため、学習ゴールとストーリー（勉強法）は総合的には政府の課した学習プログラムに従うこととなる。並び順が最も上にあるプロダクトバックログアイテムは今後のスプリントに関わるものであり、下のものほど後に取りかかるものとなる。並び順が上の項目ほど明確で詳細である。並び順が下の項目ほど不正確で詳細でない。今後のスプリントで学生チームが従事するプロダクトバックログアイテムは、スプリントのタイムボックスで「完成」できるように分解して粒度を小さくしておく。すなわち、学習教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得らえるようになるのだ。
 
 <!-- ## The "Flip" (Scrum Board) -->
 ## フリップ（スクラムボード）
@@ -26,7 +26,7 @@ The Product Backlog is ordered based on the Learning Program, thus the learning 
 <!--
 The “Flip” derives its name from the Flipchart and conveys the mobility of this overview of the set of tasks and assignments (research, quiz, presentation, paper, etc.) that the Student Team will complete in the current Sprint. The Flip is a chronological representation of the Sprint work. The tasks and assignments move according to their status from: To Do, Busy to Done. The Flip is an overview of all tasks needed to accomplish the learning goal. In addition, the Flip provides insight in the Planning. It illustrates exactly where the Student Team stands with respect to done and remaining work. Consequently, the Flip is also a forecast whether the Student Team will achieve the stated learning goals. The Flip must be constantly updated so that it always reflects an “up to date” status of the progress of the Student Team. Updating occurs at least before every Stand Up.
 -->
-フリップはフリップチャートが語源で、学生が今回のスプリントで終わらせるタスクや課題（研究、小テスト、プレゼンテーション、小論文など）の現在の状態をひとまとめに運べるようにしたものである。フリップはスプリント作業を時系列で表している。タスクや課題は状態に合わせてTo DoからBusy、Doneへと動かす。フリップは学習ゴールを成し遂げるために必要なタスクの全体像である。フリップはプランニングに気づきを与えることもある。学生チームがどの程度終わっていて何が残っているのかも正確に見て取れる。つまりフリップは、学生が定められた学習ゴールを達成できるかどうかの予測となる。学生チームの「最新」の進捗を常に反映しておくためには、フリップは絶えず更新されているはずだ。少なくとも次のスタンドアップまでには更新する。
+フリップはフリップチャートが語源で、学生が今回のスプリントで終わらせるタスクや課題（研究、小テスト、プレゼンテーション、小論文など）の現在の状態をひとまとめに運べるようにしたものである。フリップはスプリント作業を時系列で表している。タスクや課題は状態に合わせてTo To DoからBusy、Doneへと動かす。フリップは学習ゴールを成し遂げるために必要なタスクの全体像である。フリップはプランニングに気づきを与えることもある。学生チームがどの程度終わっていて何が残っているのかも正確に見て取れる。つまりフリップは、学生が定められた学習ゴールを達成できるかどうかの予測となる。学生チームの「最新」の進捗を常に反映しておくためには、フリップは絶えず更新されているはずだ。少なくとも次のスタンドアップまでには更新する。
 
 <!--
 Another attribute of the Flip is that it should enhance the transparency about progress. This requires that the Flip must be visible for all Student Teams during each meeting.
