@@ -102,3 +102,6 @@ De Student Teams are themselves responsible for setting up their Definition of �
 An addition to the Definition of “Done” is the Definition of “Fun”. Fun is an important motivator for students and is therefore essential for getting better learning results. Hence, students should also indicate what they need to have fun during the work they are doing. “Need” in this context may be interpreted best in the broad sense of the word: what should be there to ensure enjoyable work. Often the output of a retrospective offers clues for the Definition of “Fun”. The Definition of Fun list is also a ‘living document’ and may be changed or expanded frequently.
 -->
 「完成」の定義に付け加えられるべきは、「楽しさ」の定義である。楽しさは学生にとって重要なモチベーターであって、良い成績をとるためには不可欠なものである。それゆえ、楽しみながら勉強するには何が必要か、学生は表明する必要がある。ここでいう「必要」とは、できるだけ良い広義の意味で理解する必要がある。つまり、楽しい勉強のためになくてはならないものを指す。レトロスペクティブから「楽しさ」の定義のヒントが生まれることはよくある。楽しさの定義は「生きたドキュメント」でもあり、頻繁に変更されたり拡張されることがある。
+
+
+<!-- EOF -->
