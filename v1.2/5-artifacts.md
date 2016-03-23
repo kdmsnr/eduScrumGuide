@@ -21,7 +21,7 @@ The Product Backlog is ordered based on the Learning Program, thus the learning 
 プロダクトバックログは学習プログラムに基づいて並べられるため、学習ゴールとストーリー（勉強法）は総合的には政府の課した学習プログラムに従うこととなる。並び順が最も上にあるプロダクトバックログアイテムは今後のスプリントに関わるものであり、下のものほど後に取りかかるものとなる。並び順が上の項目ほど明確で詳細である。並び順が下の項目ほど不正確で詳細でない。今後のスプリントで学生チームが従事するプロダクトバックログアイテムは、スプリントのタイムボックスで「完成」できるように分解して粒度を小さくしておく。すなわち、学習教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得らえるようになるのだ。
 
 <!-- ## The "Flip" (Scrum Board) -->
-## フリップ（スクラムボード）
+## 「フリップ」（スクラムボード）
 
 <!--
 The “Flip” derives its name from the Flipchart and conveys the mobility of this overview of the set of tasks and assignments (research, quiz, presentation, paper, etc.) that the Student Team will complete in the current Sprint. The Flip is a chronological representation of the Sprint work. The tasks and assignments move according to their status from: To Do, Busy to Done. The Flip is an overview of all tasks needed to accomplish the learning goal. In addition, the Flip provides insight in the Planning. It illustrates exactly where the Student Team stands with respect to done and remaining work. Consequently, the Flip is also a forecast whether the Student Team will achieve the stated learning goals. The Flip must be constantly updated so that it always reflects an “up to date” status of the progress of the Student Team. Updating occurs at least before every Stand Up.

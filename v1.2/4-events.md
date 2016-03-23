@@ -16,45 +16,101 @@ Other than the Sprint itself, which is a container for all other events, each ev
 <!--## The Sprint-->
 ## スプリント
 
-The heart of eduScrum is a Sprint, a coherent set of learning material that achieves certain learning goals. 
-A Sprint can be a context rich lesson serie, a project, a chapter from a book, and so on. 
+<!--
+The heart of eduScrum is a Sprint, 
+	a coherent set of learning material that achieves certain learning goals. 
+A Sprint can be a context rich lesson series, a project, a chapter from a book, and so on. 
 Usually Sprints coincide with semesters or periods, but this is not required.
+-->
 
-eduScrumの中心はスプリントである。
-これは学習ゴールを達成する学習教材のまとまりだ。
-スプリントは、
-コンテキストリッチなレッスンシリーズ、プロジェクト、本の章などである★。
-通常、スプリントは学期や授業期間と一致する。だが、これは必須ではない。
+eduScrumの中心はスプリントである。これは、学習ゴールを達成する学習教材の集合である。コンテキストが豊富な講義シリーズ、プロジェクト、本の章などがスプリントに相当する。通常、スプリントは学期や授業期間と一致するが、必須事項ではない。
 
+<!--
 A Sprint has a predetermined time-box, usually two months or less. When this horizon is further away it becomes hard for the Student Teams 
 	to plan well and oversee the complexity.
-スプリントは事前にタイムボックス化されている。
-通常、2か月以下のタイムボックスである。
-これよりも長ければ、学生チームの計画や複雑性の調査が難しくなる。★
+-->
+スプリントは事前にタイムボックス化されている。通常、2か月以下のタイムボックスである。これよりも長ければ、学生チームの計画や複雑性の調査が難しくなる。
 
-The Sprint starts with a Sprint Planning Meeting and Team Formation. The Student Teams determine independently what they will be doing in that period. The Student Team at all times determines the “how”.
-スプリントはスプリントプランニングミーティングとチームフォーメーションから開始する。
-学生チームは
+<!--
+The Sprint starts with a 
+	Sprint Planning Meeting and Team Formation. The Student Teams determine independently 
+		what they will be doing in that period. The Student Team at all times determines the “how”.
+-->
 
+スプリントはスプリントプランニングミーティングとチームフォーメーションから始まる。学生チームはスプリントの期間に何をやるかを個別に決める。学生チームは常に「どうやるか」を決めるのである。
 
-Sprints consist of:
+<!--Sprints consist of:-->
+スプリントは、以下の内容で構成されている。
+
+<!--
 •	Sprint Planning meeting including Team Formation
 •	Stand Ups at the start of every class
 •	performing assignments and tasks within a Sprint
 •	Sprint Review
 •	Sprint Retrospective and Personal Reflection
+-->
+
+* スプリントプランニングミーティング（チームフォーメーションを含む）
+* 授業の開始時にスタンドアップ
+* スプリントにおける任務とタスクの実行
+* スプリントレビュー
+* スプリントレトロスペクティブとパーソナルリフレクション
+
+<!--
 During the Sprint:
 •	the composition of the Student Teams is not changed
-•	the scope is not changed; the quality may be clarified and renegotiated between the Product Owner and the Student Team as more is learned
-The sprint ends with a Review and Retrospective; inspecting work delivered and identifying possibilities for improvement. 
+•	the scope is not changed; 
+		the quality may be clarified and renegotiated 
+		between the Product Owner and the Student Team 
+		as more is learned
+-->
+スプリントでは、以下のことを行わない。
 
-During a Sprint the Product Owner monitors and checks regularly whether each Team realizes the intended quality. Some teams even have an additional event scheduled on a regular and time-box based interval to secure that Inspection and Adaption takes place during the Sprint. Just like in Scrum, in eduScrum we have the motto “Test in the Sprint”. The Product Owner emphasizes regularly that deliveries have to be tested and stimulates the Student Teams to do this themselves. Student Teams may think of all kinds of methods to do this, from testing each other to short educational games or competitions.
+* 学生チームの編成は変更しない。
+* スコープは変更しない（品質については、プロダクトオーナーと学生チームが協議の上、変更されることもある）。
+
+<!--
+The sprint ends with a Review and Retrospective; inspecting work delivered and identifying possibilities for improvement. 
+-->
+スプリントはレビュー（届けられた成果の検査）とレトロスペクティブ（改善の可能性の特定）で終了する。
+
+<!--
+During a Sprint the Product Owner monitors and checks regularly
+	whether each Team realizes the intended quality. 
+Some teams even have an additional event scheduled on a regular and time-box based interval 
+	to secure that Inspection and Adaption takes place 
+	during the Sprint. 
+Just like in Scrum, in eduScrum we have the motto “Test in the Sprint”. The Product Owner emphasizes regularly 
+	that deliveries 
+		have to be tested and stimulates the Student Teams to do this themselves.
+ Student Teams may think of all kinds of methods to do this, 
+ 		from testing each other to short educational games or competitions.
+-->
+
+スプリントでは、各チームが想定した品質を達成できているかをプロダクトオーナーが定期的に確認する。検査と適応が確実に実施されるように、定期的に追加のイベントを実施したり、タイムボックス化されたインターバルを維持したりするチームもある。スクラムと同様に、eduScrumのモットーは「スプリントのなかでテストする」である。プロダクトオーナーは、成果をテストすべきであることを定期的に強調し、学生チームが自分たちでテストするように促す。学生チームは、お互いにテストしたり、簡単な教育ゲームや競争をしたりするなど、あらゆる手法を考える。
+
+<!--
 As Product Owner the teacher monitors the progress of each team. The "Flip" and the Burn Down Charts provide a quick overview.
+-->
+プロダクトオーナーとして教師は、チームの進捗をモニタリングする。「フリップ」とバーンダウンチャートがあれば、すばやく概要を把握できる。
 
 <!--#### Canceling a Sprint - not in eduScrum.-->
 #### スプリントの中止（eduScrumにはない）
 
-Unlike with Scrum a Sprint cannot be canceled in eduScrum. It is possible that extra assignments (scope) are provided to reach the required results. This shall only be used in exceptional circumstances. A teacher can also include central explanation moments to ensure the required results. This can be done for all teams or per Student Team.
+<!--
+Unlike with Scrum a Sprint cannot be canceled in eduScrum. It is possible that 
+	extra assignments (scope) are provided 
+	to reach the required results. 
+This shall only be used in exceptional circumstances. 
+A teacher can also include central explanation moments 
+	to ensure the required results. This can be done for all teams or per Student Team.
+-->
+
+スクラムとは違い、eduScrumのスプリントは中止できない。求められる結果を達成できるように、任務（スコープ）が追加される可能性もあるが、あくまでも例外的な処置である。教師は学生チームのために説明の時間を確保することもできる。説明はチーム全体に対して行うこともできるし、個別のチームに対して行うこともできる。
+
+
+
+
 
 <!-- ## The Sprint Planning Meeting-->
 ## スプリントプランニングミーティング
@@ -107,26 +163,33 @@ At the end of the Sprint Planning Meeting the Student Team should be able to exp
 ## スタンドアップ
 
 The Stand Up is a 5 minute time boxed event for the Student Team to synchronize activities and to make a plan until the next meeting. The Stand Up occurs at the beginning of every class. This is done by inspecting the work since the last Stand up and by forecasting what work can be done until the next Stand Up.
+
 The Stand Up is held every class at the same moment, namely at the beginning, to reduce complexity and introduce regularity. During the Stand Up each Student Team member tells the following:
+
 	What have I done to help the team achieve the Sprint goal since the previous class?
 	What will I do this class to help the team achieve the Sprint goal?
 	What are impediments that block me or the team to achieve the Sprint goal?
 
 The Student Team uses the Stand Up to evaluate and guard the progress with respect to the learning goals, re-plan the work and to make working agreements. The Stand Up maximizes the likelihood that the Student Team will reach the learning goals at the highest possible quality. The Student Team must be able to explain the Product Owner how they will work together as a self-organizing team to achieve the learning goals and what the activities are in the remainder of the Sprint.
+
 The eduScrum Master makes sure that the Student Team actually does the Stand Up, but the Student Team is responsible for the execution of the Stand Up. The eduScrum Master helps the Student Team to keep the Stand Up within the 5 minute time box.
+
 Stand Ups improve communication, identify and remove obstacles to development, highlight and encourage fast decision making and improve the knowledge of the Student Team about the project. This is a very important “inspect and adapt” meeting.
 
 <!-- ## Sprint Review  -->
 ## スプリントレビュー
 
 The Sprint Review takes place at the end of Sprint and is synonymous with a final assignment. The Student Teams display what they have learned in the last Sprint, this should be checked against the Learning Goal and Definition of Done. The manner of presentation depends on the Learning Goals and the acceptance criteria. 
+
 During the Sprint it is necessary to Inspect and Adapt as often as possible but without hindering the learning process. In general it can be concluded that the more often Inspection takes place the higher the chances on success are. Frequency of Inspections and how they will be judged should be shared with the Student Team at the start of the Sprint during Sprint Planning. These inspections help the teams to judge what progress and quality are against the Learning Goals, and aim for getting as much feedback as possible about the finished tasks. 
 
 <!-- ## Sprint Retrospective  -->
 ## スプリントレトロスペクティブ
 
 The Sprint Retrospective is an opportunity for the Student Team to inspect themselves. The Sprint Retrospective is done as soon as possible after the Sprint Review. The Retrospective should be done thoroughly and is meant for the Team and Individuals to create a plan to improve themselves a and prepare for the upcoming Sprint assignment. This Retrospective should be held as soons as the grades of the final assignment are available. Any delay of the Retrospective is a possible missed opportunity for improvement of the Teams and Indviduals for the current Sprint. 
+
 The goal of this Sprint Retrospective is:
+
 	to inspect how the last Sprint went with respect to people, relations, processes and tools;
 	to identify things that went well and potential improvements and to order those; and,
 	to create a plan to implement improvements of the way in which the Student Team  
@@ -138,7 +201,9 @@ The Sprint Retrospective consists of three parts:
 3.	The team discusses what they should stop doing
 
 Consequently, the students are learning together to learn effectively and efficiently. The Sprint Retrospective is therefore a very important and essential part of the eduScrum process and it must certainly not be omitted. It takes place after the whole Sprint has been finished.
+
 The Student Team individually and collectively answers the following four questions:
+
 1.	What went well?
 2.	What can or should be done better?
 3.	What should  we not do anymore?
