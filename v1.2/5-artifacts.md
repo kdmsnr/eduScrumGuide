@@ -69,7 +69,7 @@ When a Learning Goal or a Learning Story item is described as “Done”, everyo
 <!--
 The Learning Goal is the sum of all the items to be completed during a Sprint. At the end of a Sprint, the Learning Goal must be “Done,” which means it must meet the predefined acceptance criteria, where the goal is to get a grade that denotes comprehension of the Learning Goal (which is more or less two thirds of the learning material). Even though a 5.5 (on an scale from 1 – 10) is sufficient to pass to the next Sprint/Period/School Year, that does not by definition indicate comprehension of the Learning Goal. 
 -->
-学習ゴールとは、今回のスプリントで完成させる項目のすべてを合わせたものである。スプリントの終わりには、学習ゴールが「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ条件を満たしたことを意味し、学習ゴールの理解度（学習教材のおよそ2/3）を成績で示すことが達成目標となる。次のスプリント・学期・年度に進むには10段階評価で5.5をとれば足りるが、当然ながらそれは学習ゴールの理解力を示すものではない。
+学習ゴールとは、今回のスプリントで完成させる項目のすべてを合わせたものである。スプリントの終わりには、学習ゴールが「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ基準を満たしたことを意味し、学習ゴールの理解度（学習教材のおよそ2/3）を成績で示すことが達成目標となる。次のスプリント・学期・年度に進むには10段階評価で5.5をとれば足りるが、当然ながらそれは学習ゴールの理解力を示すものではない。
 
 <!--
 The same definition guides the Student Team with planning and decomposing during the Sprint Planning Meeting. The purpose of each Sprint is to accomplish Learning Goals that adhere to the current Definition of “Done” of the Student Team at the highest quality possible.   
@@ -87,7 +87,7 @@ Important questions to arrive at a useful Definition of “Done” are:-->
 -->
 
 * 本当に完成したかどうか、どのようにして確認するのか。
-* 完全に完成したものは、どんな条件を満たしているはずか。
+* 完全に完成したものは、どんな基準を満たしているはずか。
 * また、完成していない場合ではどうか。
 
 <!--

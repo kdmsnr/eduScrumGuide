@@ -16,4 +16,6 @@ clean:
 	rm -f tmp.md
 	rm -f tmp_replaced.md
 
+check:
+	ruby check.rb
 

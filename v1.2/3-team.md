@@ -284,7 +284,7 @@ eduScrumマスターは、スクラムのスクラムマスターよりも制限
 In the Team Formation ceremony
 	first the eduScrum Masters are chosen by the Product Owner or by the class. The eduScrum Masters in turn choose team members with complementary skills.
 -->
-チームフォーメーションの儀式では、最初にプロダクトオーナーまたはクラスがeduScrumマスターを選出する。次に、eduScrumマスターが補完的スキルを持つチームメンバーを選出する。
+チーム編成の儀式では、最初にプロダクトオーナーまたはクラス全体がeduScrumマスターを選出する。次に、eduScrumマスターが補完的スキルを持つチームメンバーを選出する。
 
 <!--
 In the Student Team 
@@ -331,3 +331,4 @@ eduScrumマスターは、さまざまな形で学生チームを支援する。
 
 
 
+<!-- EOF -->
