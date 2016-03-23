@@ -10,14 +10,18 @@ eduScrumの作成物は、作業や価値を表したものであり、透明性
 ## プロダクトバックログ
 
 <!--
-The Product Backlog is an ordered list (all items) of learning goals and work methods that conform to the Core Goals as defined by the government for the entire course. 
-The Product Owner is responsible for the Product Backlog, including its content, availability and ordering.
-Contrary to Scrum, where the Product Backlog is never complete, with eduScrum the Core Goals and often the Learning Goals too, are known in advance. The Core Goals are predetermined; the Learning Goals may vary, but are often known as well. However, the work methods will be constantly adjusted based on progressive insight, in accordance with the Scrum principle “Inspect and Adapt”. The Product Backlog is dynamic as to work methods: it constantly changes to identify what the students need to cooperate effectively and to understand the learning material.
-The Product Backlog is ordered based on the Learning Program, thus the learning goals and stories (work methods) have to conform to the overall, governmentally imposed Learning Program. The highest ordered Product Backlog items relate to the upcoming Sprint, and lower ordered items will be processed later chronologically. Higher ordered Product Backlog items are clearer and more detailed than lower ordered ones. The lower the order, the less detail. Product Backlog items that will occupy the Student Team for the upcoming Sprint are fine-grained, having been decomposed so that any one item can be “Done” within the Sprint time-box. That is, the learning material has been clarified and outlined sufficiently so that the Student Team will be actually successful in realizing proper results in the upcoming period.
--->
+The Product Backlog is an ordered list (all items) of learning goals and work methods that conform to the Core Goals as defined by the government for the entire course. -->
 プロダクトバックログは、コース全体の学習ゴールと勉強法が並べられた一覧（すべて）であり、政府の定めたコアゴールに準拠している。
+
+<!-- The Product Owner is responsible for the Product Backlog, including its content, availability and ordering. -->
 プロダクトオーナーは、プロダクトバックログの内容・可用性・並び順に責任を持つ。
+
+<!-- Contrary to Scrum, where the Product Backlog is never complete, with eduScrum the Core Goals and often the Learning Goals too, are known in advance. The Core Goals are predetermined; the Learning Goals may vary, but are often known as well. However, the work methods will be constantly adjusted based on progressive insight, in accordance with the Scrum principle “Inspect and Adapt”. The Product Backlog is dynamic as to work methods: it constantly changes to identify what the students need to cooperate effectively and to understand the learning material. -->
+
 スクラムではプロダクトバックログは決して完成しないが、eduScrumはその逆で、コアゴールはあらかじめわかっている。学習ゴールも多くの場合は同様である。コアゴールは事前に定めるものであり、学習ゴールは場合によるが明確であることが多い。とはいえ、学習するにつれて得られた知見に基づいて勉強法は常に調整される。これはスクラムの原則である「検査と適応」に従っている。プロダクトバックログは勉強法について動的であり、学生が効果的に協力して学習教材を理解するために必要なものを求めて絶えず変化する。
+
+<!-- The Product Backlog is ordered based on the Learning Program, thus the learning goals and stories (work methods) have to conform to the overall, governmentally imposed Learning Program. The highest ordered Product Backlog items relate to the upcoming Sprint, and lower ordered items will be processed later chronologically. Higher ordered Product Backlog items are clearer and more detailed than lower ordered ones. The lower the order, the less detail. Product Backlog items that will occupy the Student Team for the upcoming Sprint are fine-grained, having been decomposed so that any one item can be “Done” within the Sprint time-box. That is, the learning material has been clarified and outlined sufficiently so that the Student Team will be actually successful in realizing proper results in the upcoming period. -->
+
 プロダクトバックログは学習プログラムに基づいて並べられるため、学習ゴールとストーリー（勉強法）は総合的には政府の課した学習プログラムに従うこととなる。並び順が最も上にあるプロダクトバックログアイテムは今後のスプリントに関わるものであり、下のものほど後に取りかかるものとなる。並び順が上の項目ほど明確で詳細である。並び順が下の項目ほど不正確で詳細でない。今後のスプリントで学生チームが従事するプロダクトバックログアイテムは、スプリントのタイムボックスで「完成」できるように分解して粒度を小さくしておく。すなわち、学習教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得らえるようになるのだ。
 
 <!-- ## The "Flip" (Scrum Board) -->
@@ -73,15 +77,18 @@ The same definition guides the Student Team with planning and decomposing during
 この定義は、学生チームがスプリントプランニングミーティングで計画し細分化を行うときの指針にもなる。各スプリントの目的は、そのときの「完成」の定義にあった学習ゴールを、可能な限り高い品質で達成することである。
 
 <!--
-Important questions to arrive at a useful Definition of “Done” are:
+Important questions to arrive at a useful Definition of “Done” are:-->
+有用な「完成」の定義を引き出すには、以下のような質問をすることが重要だ。
+
+<!--
 	How do you check whether you are really done?
 	What is done exactly, what criteria should hold?
 	But also, when is it not done?
 -->
-有用な「完成」の定義を引き出すには、以下のような質問をすることが重要だ。
-	本当に完成したかどうか、どのようにして確認するのか。
-	完全に完成したものは、どんな条件を満たしているはずか。
-	また、完成していない場合ではどうか。
+
+* 本当に完成したかどうか、どのようにして確認するのか。
+* 完全に完成したものは、どんな条件を満たしているはずか。
+* また、完成していない場合ではどうか。
 
 <!--
 De Student Teams are themselves responsible for setting up their Definition of “Done”. Since setting up a Definition of “Done” is also part of the learning process, it may be changed based on the output of the retrospectives. In that way, new insights can be assimilated into the process to get better results.
