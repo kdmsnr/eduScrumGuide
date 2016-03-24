@@ -72,7 +72,7 @@ To monitor and evaluate progress and results
 To do this, the Product Owner uses two benchmarks: the Definition of Done, defined by the Student Team, and the acceptance criteria defined by the Product Owner.
 -->
 
-プロダクトオーナーは、「何を」学習してもらうかを決めるだけでなく、教育結果の品質のモニタリング・チェック・改善も行わなければいけない。そのためにプロダクトオーナーは、2つのベンチマークを使用する。学生チームが定義する「完成の定義」とプロダクトオーナーが定義する「受け入れ基準」だ。
+プロダクトオーナーは、「何を」学習してもらうかを決めるだけでなく、教育結果の品質のモニタリング・確認・改善も行わなければいけない。そのためにプロダクトオーナーは、2つのベンチマークを使用する。学生チームが定義する「完成の定義」とプロダクトオーナーが定義する「受け入れ基準」だ。
 
 <!-- Acceptance Criteria -->
 #### 受け入れ基準

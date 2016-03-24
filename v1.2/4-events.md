@@ -325,10 +325,7 @@ The Student Teams display what they have learned in the last Sprint, this should
 	be checked against the Learning Goal and Definition of Done. The manner of presentation depends on the Learning Goals and the acceptance criteria.
 -->
 
-スプリントレビューはスプリントの終わりに行う。最終課題と同じ意味である。
-学生チームはスプリントで学んだことを提示する。
-これは[[learning goal]]と完成の定義を考慮してチェックされるべきである。
-プレゼンテーションの方法は[[learning goal]]と受け入れ基準によって決まる。
+スプリントレビューは、スプリントの終わりに行う。これは[[final assignment]]と同じ意味である。学生チームは、今回のスプリントで学んだことを提示する。これについては、[[learning goal]]と完成の定義を踏まえて確認しなければいけない。プレゼンテーションの方法については、[[learning goal]]と受け入れ基準によって異なる。
 
 <!--
 During the Sprint it is necessary to Inspect and Adapt
@@ -347,7 +344,7 @@ These inspections help the teams to judge
 		about the finished tasks. 
 -->
 
-スプリントでは、できるだけ検査と適応を行う必要がある。ただし、それが学習プロセスの妨げになってはいけない。通常、検査を頻繁に行えば、それだけ成功の確率は高まる。検査の頻度や評価方法については、スプリントの開始時にスプリントプランニングのときに、学生チームで共有すべきである。こうした検査によって、チームは[[learning goal]]に対する進捗や品質の判断したり、完了したタスクのフィードバックをできるだけ多く集めようとするようになる。
+スプリントでは、可能な限り検査と適応を行う必要がある。ただし、それが学習プロセスの妨げになるようではいけない。通常、検査を頻繁に行えば、その分だけ成功の確率が高まる。検査の頻度や評価方法については、スプリントの最初のスプリントプランニングのときに、学生チームと共有すべきである。このような検査を行えば、学生チームは[[learning goal]]に対する進捗や品質を判断したり、完了したタスクのフィードバックをできるだけ多く集めたりするようになる。
 
 <!-- ## Sprint Retrospective  -->
 ## スプリントレトロスペクティブ
