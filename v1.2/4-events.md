@@ -268,10 +268,7 @@ The Stand Up occurs at the beginning of every class.
 This is done by inspecting the work 
 	since the last Stand up and 
 	by forecasting what work can be done until the next Stand Up.-->
-スタンドアップとは、
-学生チームが活動を同期して、次のミーティングまでの計画を立てる5分間のタイムボックスのイベントである。スタンドアップは授業の開始時に行う。
-前回のスタンドアップから行った作業の検査と、
-次回のスタンドアップまでに行う作業の予想を行う。
+スタンドアップとは、学生チームが自分たちの活動を同期して、次のミーティングまでの計画を作成する5分間のイベントである。スタンドアップは授業の開始時に行う。スタンドアップでは、前回のスタンドアップから行った作業の検査と、次回のスタンドアップまでに行う作業の予想を行う。
 
 
 <!--
@@ -279,9 +276,7 @@ The Stand Up is held every class at the same moment,
 	namely at the beginning,
 	to reduce complexity and introduce regularity. 
 During the Stand Up each Student Team member tells the following:-->
-スタンドアップは毎回授業の同じタイミングで行う。つまり、開始時である。
-そのほうが複雑にならないし、定期的に行うことができる。
-スタンドアップでは、生徒チームのメンバーが以下のことを説明する。
+スタンドアップは、毎回同じタイミングで行うべきである。つまり、授業の開始時である。そのほうが面倒が少なく、いつも定期的に実施できる。スタンドアップでは、学生チームのメンバーが、以下のことを説明する。
 
 <!--
 	What have I done to help the team achieve the Sprint goal since the previous class?
@@ -305,20 +300,20 @@ The Student Team must be able to explain the Product Owner
 	to achieve the learning goals and 
 	what the activities are in the remainder of the Sprint.
 -->
-学生チームはスタンドアップを使って、[[learning goal]]の進捗を評価・管理、作業の再計画、ワーキングアグリーメントの作成などをする。スタンドアップは、学生チームが[[learning goal]]をできるだけ高い品質で達成できるように、その可能性を最大化する。学生チームはプロダクトオーナーに対して、自己組織化されたチームとして、[[learning goal]]を達成するためにどのように作業しているのか、スプリントの残りはどのような活動をするのかを説明できるようにならなければいけない。
+学生チームはスタンドアップのなかで、[[learning goal]]の進捗を評価・管理したり、作業の再計画をしたり、ワーキングアグリーメントを作成したりする。スタンドアップとは、学生チームが[[learning goal]]をできるだけ高い品質で達成できるように、その可能性を最大化するものである。学生チームは自己組織化されたチームとして、[[learning goal]]を達成するためにどのように作業しているのか、スプリントの残りはどのような活動をするのかをプロダクトオーナーに説明できなければいけない。
 
 
 
 <!--
 The eduScrum Master makes sure that the Student Team actually does the Stand Up, but the Student Team is responsible for the execution of the Stand Up. The eduScrum Master helps the Student Team to keep the Stand Up within the 5 minute time box.
 -->
-eduScrumマスターは、学生チームにスタンドアップを開催してもらうようにする。ただし、スタンドアップを開催する責任は学生チームにある。eduScrumマスターはスタンドアップを5分間のタイムボックスで終わらせるように学生チームを支援する。
+eduScrumマスターは、学生チームにスタンドアップを開催してもらうようにする。ただし、スタンドアップを開催する責任は学生チームにある。eduScrumマスターは、スタンドアップが5分間のタイムボックスで終わるように学生チームを支援する。
 
 <!--
 Stand Ups improve communication, identify and remove obstacles to development, highlight and encourage fast decision making and improve the knowledge of the Student Team about the project. This is a very important “inspect and adapt” meeting.
 -->
 
-スタンドアップは、コミュニケーションを改善し、開発の障害物を特定・排除し、迅速な意思決定を強調・助長して、学生チームのプロジェクト知識のレベルを向上させるものである。これは、「検査と適応」の重要なミーティングである。
+スタンドアップは、コミュニケーションを改善し、開発の障害物を特定・排除し、迅速な意思決定を強調・助長して、学生チームのプロジェクト知識のレベルを向上させる。これは、「検査と適応」の重要なミーティングである。
 
 <!-- ## Sprint Review  -->
 ## スプリントレビュー
