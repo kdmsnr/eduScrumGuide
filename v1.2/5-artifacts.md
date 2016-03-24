@@ -30,7 +30,7 @@ The Product Backlog is dynamic
 <!-- The Product Backlog is ordered based on the Learning Program,
 thus the learning goals and stories (work methods) have to conform to the overall, governmentally imposed Learning Program. The highest ordered Product Backlog items relate to the upcoming Sprint, and lower ordered items will be processed later chronologically. Higher ordered Product Backlog items are clearer and more detailed than lower ordered ones. The lower the order, the less detail. Product Backlog items that will occupy the Student Team for the upcoming Sprint are fine-grained, having been decomposed so that any one item can be “Done” within the Sprint time-box. That is, the learning material has been clarified and outlined sufficiently so that the Student Team will be actually successful in realizing proper results in the upcoming period. -->
 
-プロダクトバックログは、学習プログラムにもとづいて並べるものである。したがって、[[learning goal]]とストーリー（[[work method]]）は、教育機関が策定した学習プログラムに準拠することになる。並び順が上にあるプロダクトバックログアイテムは、今後のスプリントで扱うものであり、下にあるアイテムは、あとから取りかかるものである。並び順が上のアイテムほど明確で詳細である。並び順が下のアイテムほど不正確で詳細ではない。今後のスプリントで学生チームが取りかかるプロダクトバックログアイテムについては、スプリントのタイムボックスで「完成」できるように、分解して粒度を小さくしておく。すなわち、学習教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得らえるようになるのである。
+プロダクトバックログは、学習プログラムにもとづいて並べるものである。したがって、[[learning goal]]とストーリー（[[work method]]）は、教育機関が策定した学習プログラムに準拠することになる。並び順が上にあるプロダクトバックログアイテムは、今後のスプリントで扱うものであり、下にあるアイテムは、あとから取りかかるものである。並び順が上のアイテムほど明確で詳細である。並び順が下のアイテムほど不正確で詳細ではない。今後のスプリントで学生チームが取りかかるプロダクトバックログアイテムについては、スプリントのタイムボックスで「完成」できるように、分解して粒度を小さくしておく。すなわち、学習教材を十分なだけ明確にしておくことで、学生チームは授業時間内に適切な成果を得られるようになるのである。
 
 <!-- ## The "Flip" (Scrum Board) -->
 ## 「フリップ」（スクラムボード）

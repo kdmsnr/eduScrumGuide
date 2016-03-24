@@ -5,7 +5,7 @@
 Prescribed events are used in eduScrum to create regularity and predictability. All events are time-boxed events, such that every event has a maximum duration, ensuring an appropriate amount of time is spent without allowing waste in the process.
 -->
 
-eduScurmでは、規則性と予測可能性を作り出すために、規定のイベントを使用する。すべてのイベントは、時間に上限のあるタイムボックス化されたイベントである。これは、プロセスでムダなことをすることなく、適切な分だけ時間を使うためである。
+eduScrumでは、規則性と予測可能性を作り出すために、規定のイベントを使用する。すべてのイベントは、時間に上限のあるタイムボックス化されたイベントである。これは、プロセスでムダなことをすることなく、適切な分だけ時間を使うためである。
 
 <!--
 Other than the Sprint itself, which is a container for all other events, each event in Scrum is a formal opportunity to inspect and adapt something. These events are specifically designed to enable critical transparency and inspection. Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.
