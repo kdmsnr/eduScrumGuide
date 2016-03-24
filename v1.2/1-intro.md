@@ -6,7 +6,7 @@
 この文書を読んでいるみなさんは、スクラムのことはご存知ないだろうが、教育については何らかの経験をお持ちだろう。eduScrumは「教育」と「スクラム」を起源とする。スクラムとは、持続的で複雑なプロダクトを開発するためのフレームワークである。IT開発の分野では広く使用されており、この分野の主流となりつつある。それでもなお専門家たちは、他にもスクラムを適用できる分野がないかと探し求めている。
 
 <!-- One of these areas is Education. This triggered the eduScrum Team to experiment with this framework in a class-room setting. Although the outcome of school results are relatively easy to predict, the process to achieve these outcomes is a rather complex one as with software development. The pillars Transparency, Inspection and Adaption together with Self-Organizing teams triggered the Team to experiment with this framework. -->
-その分野のひとつが「教育」だ。eduScrumのチームは、このフレームワークを教室のなかで実験することになった。学校がもたらす成果については、比較的簡単に予測可能だろうが、その成果に至るまでのプロセスは（ソフトウェア開発と同じように）難しい。「透明性」「検査」「適応」の三本柱と「自己組織化」されたチームという理念の下、このフレームワークの実験を始めることになった。
+その分野のひとつが「教育」だ。eduScrumの策定チームは、このフレームワークを教室のなかで実験することになった。学校がもたらす成果については、比較的簡単に予測可能だろうが、その成果に至るまでのプロセスは（ソフトウェア開発と同じように）難しい。「透明性」「検査」「適応」の三本柱と「自己組織化」されたチームという理念の下、このフレームワークの実験を始めることになった。
 
 <!-- For all of you who had a chance to witness what is going on, it is no longer a secret. For those of you who did not have a chance I can assure you that you will be surprised. eduScrum is a cocreative process. Imagine children not being held responsible but feeling responsible for completing work. No one telling the children what and how to do it but only what the expected results are, and they want to do it. Homework is no longer dictated by the teacher, but taken up as deemed appropriate by the students. When you are in a eduScrum class you can feel the energy and positive vibe. -->
 すでにその状況を目にした人ならば、特に目新しいものは見当たらないだろう。まだ見たことのない人ならば、きっと驚くものが見られるはずだ。eduScrumは共創的なプロセスである。子どもたちが責任を負わされるのではなく、自ら責任を持って作業を終わらせようとしている光景を想像してほしい。子どもたちに何をどうすればいいかを教える者は誰もいない。期待する結果を提示するだけで、子どもたちが自らそれをやりたいと思うのである。宿題を教師が出すこともない。学生が必要だと思うものを自ら選択するのである。eduScrumの教室に一歩入ってみれば、大きなエネルギーとポジティブなバイブスが感じられることだろう。
@@ -74,7 +74,7 @@ eduScrum challenges students on self-organization and quality of work within a g
 
 <!-- With eduScrum quality (with respect to subject matter, collaboration and personal development) is constantly evolving during the school year. Students co-determine their own quality of work as a result of ownership. Ownership combined with continuous improvement leads to higher quality. In a Review the focus is on the "What" (subject matter). The Retrospective is about the “How” (collaboration, using personal qualities, personal development).-->
 
-eduScrumを活用すれば、（成果、協力、個人の成長などの）品質が、その学年のなかで常に進化していく。学生たちは当事者意識を持っているため、みんなで協力しながら自分たちの品質を決定する。当事者意識と継続的改善を組み合わせれば、高品質につながる。レビューでは、「何をしたか」（[[subject matter]]）にフォーカスする。レトロスペクティブでは、「どうやったか」（協力、個性の活用、個人の成長）を扱う。
+eduScrumを活用すれば、（[[subject matter]]、協力、個人の成長などの）品質が、その学年のなかで常に進化していく。学生たちは当事者意識を持っているため、みんなで協力しながら自分たちの品質を決定する。当事者意識と継続的改善を組み合わせれば、高品質につながる。レビューでは、「何をしたか」（[[subject matter]]）にフォーカスする。レトロスペクティブでは、「どうやったか」（協力、個性の活用、個人の成長）を扱う。
 
 
 

@@ -166,7 +166,7 @@ During Team Formation the Product Owner or the entire class first appoint eduScr
 The Product Owner tells what he expects of the Team at the end of the Sprint; the learning goals are primarily subject matter related and are extensions of the Core Goals and Final Terms as formulated by the government.
 -->
 
-学習ゴールは、スプリントで「何」を「どのように」届けるかについて、必要となる柔軟性を学生チームに与える。プロダクトオーナーは、スプリントの終了までにチームに期待していることを伝える。学習ゴールは、教育機関によって定められた[[core goal]]と[[final term]]に関連する、もしくはその延長線上にある題目である。
+学習ゴールは、スプリントで「何」を「どのように」届けるかについて、必要となる柔軟性を学生チームに与える。プロダクトオーナーは、スプリントの終わりまでにチームに期待していることを伝える。学習ゴールは、教育機関によって定められた[[core goal]]と[[final term]]に関連する、もしくはその延長線上にある[[subject matter]]である。
 
 <!-- governmentのオランダ語の原文も「政府」だったが、政府は決めないよなあ -->
 
@@ -404,7 +404,7 @@ Any delay of the Retrospective is a possible missed opportunity for improvement 
 <!--Consequently, the students are learning together to learn effectively and efficiently. The Sprint Retrospective is therefore a very important and essential part of the eduScrum process and it must certainly not be omitted. It takes place after the whole Sprint has been finished.-->
 その結果、学生は効果的に効率的に学ぶことをみんなで一緒に学ぶ。
 スプリントレトロスペクティブは、
-eduScrumのプロセスにおいて非常に重要で欠かせないものであり、絶対に省略してはいけない。スプリント全体が終了したあとに実施する。
+eduScrumのプロセスにおいて非常に重要で欠かせないものであり、絶対に省略してはいけない。スプリント全体が終わったあとに実施する。
 
 <!--
 The Student Team individually and collectively answers the following four questions:
