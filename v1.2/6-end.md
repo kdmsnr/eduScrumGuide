@@ -11,17 +11,20 @@ eduscrumguide@gmail.com
 <!-- # Acknowledgements -->
 # 謝辞
 
-## People behind eduScrum
+<!--## People behind eduScrum-->
+## eduScrumの中の人たち
 
 “We have great faith in young people. We are convinced that they wish more and are more capable than they themselves or many adults believe. eduScrum ensures that students get the most out of themselves and their team. That is what makes education worthwhile for anyone involved! The result is that young people respect each other as they are. So we hope that we can contribute to a better world.”
 
 The eduScrum team: http://eduscrum.nl/eduscrum-team
 
-### The students: 
+<!--### The students:-->
+### 学生たち
 
 Most of the ideas to improve eduScrum come from the students themselves. We implemented their ideas and creativity. 
 
-## eduScrum Foundation and Friends of eduScrum
+<!--## eduScrum Foundation and Friends of eduScrum-->
+## eduScrum協会とeduScrumの仲間たち
 
 Further development of eduScrum is made possible with the help of the Friends of eduScrum. 
 
