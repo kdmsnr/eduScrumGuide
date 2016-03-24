@@ -23,7 +23,7 @@ A Sprint can be a context rich lesson series, a project, a chapter from a book, 
 Usually Sprints coincide with semesters or periods, but this is not required.
 -->
 
-eduScrumの中心はスプリントである。これは、学習ゴールを達成する学習教材の集合である。コンテキストが豊富な講義シリーズ、プロジェクト、本の章などがスプリントに相当する。通常、スプリントは学期や授業期間と一致するが、必須事項ではない。
+eduScrumの中心はスプリントである。これは、[[learning goal]]を達成する学習教材の集合である。コンテキストが豊富な講義シリーズ、プロジェクト、本の章などがスプリントに相当する。通常、スプリントは学期や授業期間と一致するが、必須事項ではない。
 
 <!--
 A Sprint has a predetermined time-box, usually two months or less. When this horizon is further away it becomes hard for the Student Teams 
@@ -117,7 +117,7 @@ A teacher can also include central explanation moments
 
 <!--The Sprint Planning meeting is scheduled at the beginning of the Sprint. It consists of 3 sub elements; Team Formation, Learning Goals and Work Planning. -->
 
-スプリントプランニングミーティングは、スプリントの開始時に開催するものである。スプリントプランニングミーティングは、チーム編成、学習ゴール、ワークプランニングの3つのサブ要素から構成される。
+スプリントプランニングミーティングは、スプリントの開始時に実施するものである。スプリントプランニングミーティングは、チーム編成・[[learning goal]]・作業計画の3つのサブ要素から構成される。
 
 <!-- ### Team Formation -->
 ### チーム編成
@@ -132,7 +132,7 @@ The work that needs to be done
 	to have as many qualities, knowledge and skills as possible.
 -->
 
-eduScrumでは、スクラムイベント以外のイベントも提案されている。そのひとつが、チーム編成だ。学習パフォーマンスを高めるために、特性やスキルにもとづいて注意深くチーム編成することは必要不可欠である。さまざまな作業が必要であり、チームにはできるだけ多くの特性・知識・スキルが求められる。
+eduScrumでは、スクラムイベント以外のイベントも提案されている。そのひとつが、チーム編成だ。学習パフォーマンスを高めるために、特性やスキルにもとづいて注意深くチーム編成することが必要不可欠である。さまざまな作業が必要になるため、チームにはできるだけ多くの特性・知識・スキルが求められる。
 
 
 <!--
@@ -148,17 +148,19 @@ To achieve good team compositions the following criteria are important:
 -->
 * チームメンバーの特性を補完的なものにする。
 * 男女の比率のバランスをとる。
-* 前回の課題とは異なる編成にする。
+* これまでとは異なるチーム編成にする。
 * 友達同士のチームは好ましくない。
+
+<!-- previous assignments は「これまでの課題」だが、それでは言葉が足りない -->
 
 <!--
 During Team Formation the Product Owner or the entire class first appoint eduScrum Masters. The eduScrum Masters then choose a team of people with complementary skills. The Team Formation event is part of the Sprint Planning event.
 -->
 
-チーム編成では、最初にプロダクトオーナーまたはクラスがeduScrumマスターを選出する。次に、eduScrumマスターが補完的スキルを持つチームメンバーを選出する。チーム編成のイベントは、スプリントプランニングのイベントの一環である。
+チーム編成では、最初にプロダクトオーナーまたはクラス全体が、複数のeduScrumマスターを選出する。次に、それぞれのeduScrumマスターが、補完的なスキルを持ったチームメンバーを選出する。チーム編成は、スプリントプランニングの一部である。
 
 <!-- ### Learning Goals -->
-### 学習ゴール
+### [[learning goal]]
 
 <!--The learning goals give the Student Team the necessary flexibility
 	with respect to 
@@ -166,7 +168,7 @@ During Team Formation the Product Owner or the entire class first appoint eduScr
 The Product Owner tells what he expects of the Team at the end of the Sprint; the learning goals are primarily subject matter related and are extensions of the Core Goals and Final Terms as formulated by the government.
 -->
 
-学習ゴールは、スプリントで「何」を「どのように」届けるかについて、必要となる柔軟性を学生チームに与える。プロダクトオーナーは、スプリントの終わりまでにチームに期待していることを伝える。学習ゴールは、教育機関によって定められた[[core goal]]と[[final term]]に関連する、もしくはその延長線上にある[[subject matter]]である。
+[[learning goal]]は、スプリントで「何」を「どのように」届けるかについて、必要となる柔軟性を学生チームに与えるものである。プロダクトオーナーは、チームがスプリントの終わりまでに達成すべきことを伝える。[[learning goal]]は、教育機関によって定められた[[core goal]]と[[final term]]に関連する、もしくはその延長線上にある[[subject matter]]である。
 
 <!-- governmentのオランダ語の原文も「政府」だったが、政府は決めないよなあ -->
 
@@ -176,15 +178,15 @@ If the work turns out to be different
 	than the Student Team expected 
 	they will work with the Product Owner to restructure the tasks and assignments in such a way that the learning goals can once more be achieved.-->
 
-学生チームは作業のなかで、常に学習ゴールを意識する。課題やタスクは学習ゴールを達成するために行われる。学生チームの作業が期待するものではなかった場合は、プロダクトオーナーと協議して、学習ゴールが達成できるようにタスクや課題の再編成を行う。
+学生チームは、常に[[learning goal]]を意識して作業する。課題やタスクは[[learning goal]]を達成するために行う。作業が自分たちの期待に合わなかった場合は、プロダクトオーナーと協議して、[[learning goal]]を達成できるようにタスクや課題の再編成を行う。
 
 <!--
 The learning goals are part of the formal Core Goals or Final Terms and can as  such be seen as milestones in the progress of the Student (Teams).
 -->
-学習ゴールは、正式な[[core goal]]または[[final term]]の一部である。また、学生（チーム）の進捗のマイルストーンとして扱うこともできる。
+[[learning goal]]は、公式の[[core goal]]や[[final term]]の一部である。また、学生（チーム）の進捗のマイルストーンとして扱うこともできる。
 
 <!-- ### Work Planning -->
-### ワークプランニング
+### 作業計画
 
 
 <!--The work that must be done during a Sprint 
@@ -193,7 +195,7 @@ The creation of this plan
 	is a collaborative effort of the whole Student Team.
 -->
 
-スプリントで実施するワークは、スプリントプランニングミーティングのなかで計画する。計画の作成は、学生チーム全体の共同作業である。
+スプリントで実施する作業は、スプリントプランニングミーティングのなかで計画する。計画の作成は、学生チーム全体の共同作業である。
 
 <!--First the teacher presents an overview of the assignment, 
 	the number of lessons,
@@ -216,16 +218,17 @@ The Sprint Planning Meeting is a time box of two classes for a Sprint of approxi
 	What is expected of the Student Team in this Sprint; what are the learning goals, what teaching material will be covered, what are the acceptance criteria and what dependencies are there.
 	What has to be done to achieve the learning goals, in what order and by whom.
 -->
-* このスプリントで学生チームに期待されていることは何か？（学習ゴール、網羅する教材、受け入れ基準、依存関係）★
-* 学習ゴールを達成するために、何を（どのような順番で誰が）やるべきか？
+* このスプリントで学生チームに期待されていることは何か？（[[learning goal]]・扱う教材・受け入れ基準・その他必要なもの）
+* [[learning goal]]を達成するために、何を（どのような順番で、誰が）やるべきか？
 
 <!--
-The Product Owner presents the learning goals to the Student Teams and explains them so that all Student Teams and all team members have a good idea what is expected of them during this Sprint. 
+The Product Owner presents the learning goals to the Student Teams and explains them
+so that all Student Teams and all team members have a good idea what is expected of them during this Sprint. 
 The learning goals must have been explained 
 	to such a degree that the Student Team can independently elaborate these learning goals in a team planning.
 -->
 
-プロダクトオーナーは、学生チームに学習ゴールを提示して、すべての学生チームとチームメンバーの全員がスプリントで期待されていることを理解できるように説明する。学習ゴールについては、学生チームがチームプランニングのなかで詳細化できる程度に説明しなければいけない。
+プロダクトオーナーは、すべての学生チームおよびチームメンバーの全員がこのスプリントで期待されていることを理解できるように、[[learning goal]]を説明する。学生チームが計画を作成できる程度に詳しく説明しなければいけない。
 
 <!--
 After the Product Owner has explained the learning goals it is up to the Student Team to figure out the required activities. 
@@ -235,7 +238,7 @@ As soon as it is clear what needs to be done
 		based on their own insight and acceptance criteria of the Product Owner.
 -->
 
-プロダクトオーナーが学習ゴールについて説明したあとは、学生チームが必要となる活動を見つけ出す。タスクの規模や納品の分割については、原則として学生チームが責任を持つ。何が必要かが明らかになったらすぐに、学生チームは自分たちの知見やプロダクトオーナーの受け入れ基準にもとづいて、タスクや納品の順番について準備を始める。
+プロダクトオーナーが[[learning goal]]を説明したあとは、学生チームが自分たちに必要な活動を見つけ出す。タスクの規模や成果の分割については、原則として学生チームが責任を持つ。必要なものが明らかになれば、学生チームは自分たちの知見やプロダクトオーナーの受け入れ基準にもとづいて、タスクの内容や成果を出す順番の準備を整える。
 
 <!--
 As soon as the tasks and partial deliveries have been ordered chronologically 
@@ -243,15 +246,16 @@ As soon as the tasks and partial deliveries have been ordered chronologically
 During this planning session 
 	there will only be a first draft. 
 After all, the process of inspection and adaptation 
-	continually leads to renewed insights and possibly to changes in the planning and work division.
+	continually leads to
+	renewed insights and possibly to changes in the planning and work division.
 -->
-タスクや納品の順番が決まったら、最初の納品をタスクに分解することができる。このプランニングセッションでは、草案しかできない。つまり、検査と適応のプロセスが、継続的に新たな知見を導いたり、場合によってはプランニングやワーク★の分割の変更につながったりする。
+タスクの内容や成果を出す順番が決まったら、最初の成果をタスクに分解できる。この段階では、まだ草案の状態である。つまり、検査と適応のプロセスを継続的に行うことで、新たな知見を得たり、再計画や成果の再分割を行ったりする可能性もある。
 
 <!--
 At the end of the Sprint Planning Meeting the Student Team should be able to explain to the Product Owner 
 	how they are planning, as self-organizing team, to achieve the learning goals and how they will realize the Sprint Objectives.
 -->
-スプリントプランニングミーティングの終わりには、学生チームはプロダクトオーナーに対して、自己組織化されたチームとして、学習ゴールを達成するためにどのように計画しているのか、[[sprint objective]]をどのように実現するのかを説明できるようにならなければいけない。
+スプリントプランニングミーティングの終わりには、学生チームは自己組織化されたチームとして、[[learning goal]]を達成するためにどのように計画しているのか、スプリントゴールをどのように実現するのかをプロダクトオーナーに説明できなければいけない。
 
 
 
@@ -301,7 +305,7 @@ The Student Team must be able to explain the Product Owner
 	to achieve the learning goals and 
 	what the activities are in the remainder of the Sprint.
 -->
-学生チームはスタンドアップを使って、学習ゴールの進捗を評価・管理、作業の再計画、ワーキングアグリーメントの作成などをする。スタンドアップは、学生チームが学習ゴールをできるだけ高い品質で達成できるように、その可能性を最大化する。学生チームはプロダクトオーナーに対して、自己組織化されたチームとして、学習ゴールを達成するためにどのように作業しているのか、スプリントの残りはどのような活動をするのかを説明できるようにならなければいけない。
+学生チームはスタンドアップを使って、[[learning goal]]の進捗を評価・管理、作業の再計画、ワーキングアグリーメントの作成などをする。スタンドアップは、学生チームが[[learning goal]]をできるだけ高い品質で達成できるように、その可能性を最大化する。学生チームはプロダクトオーナーに対して、自己組織化されたチームとして、[[learning goal]]を達成するためにどのように作業しているのか、スプリントの残りはどのような活動をするのかを説明できるようにならなければいけない。
 
 
 
@@ -328,8 +332,8 @@ The Student Teams display what they have learned in the last Sprint, this should
 
 スプリントレビューはスプリントの終わりに行う。最終課題と同じ意味である。
 学生チームはスプリントで学んだことを提示する。
-これは学習ゴールと完成の定義を考慮してチェックされるべきである。
-プレゼンテーションの方法は学習ゴールと受け入れ基準によって決まる。
+これは[[learning goal]]と完成の定義を考慮してチェックされるべきである。
+プレゼンテーションの方法は[[learning goal]]と受け入れ基準によって決まる。
 
 <!--
 During the Sprint it is necessary to Inspect and Adapt
@@ -348,7 +352,7 @@ These inspections help the teams to judge
 		about the finished tasks. 
 -->
 
-スプリントでは、できるだけ検査と適応を行う必要がある。ただし、それが学習プロセスの妨げになってはいけない。通常、検査を頻繁に行えば、それだけ成功の確率は高まる。検査の頻度や評価方法については、スプリントの開始時にスプリントプランニングのときに、学生チームで共有すべきである。こうした検査によって、チームは学習ゴールに対する進捗や品質の判断したり、完了したタスクのフィードバックをできるだけ多く集めようとするようになる。
+スプリントでは、できるだけ検査と適応を行う必要がある。ただし、それが学習プロセスの妨げになってはいけない。通常、検査を頻繁に行えば、それだけ成功の確率は高まる。検査の頻度や評価方法については、スプリントの開始時にスプリントプランニングのときに、学生チームで共有すべきである。こうした検査によって、チームは[[learning goal]]に対する進捗や品質の判断したり、完了したタスクのフィードバックをできるだけ多く集めようとするようになる。
 
 <!-- ## Sprint Retrospective  -->
 ## スプリントレトロスペクティブ

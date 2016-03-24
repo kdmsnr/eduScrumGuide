@@ -3,7 +3,7 @@
 
 <!-- eduScrum, like Scrum, is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known. eduScrum employs an iterative, incremental approach to optimize the achievability of learning goals and control risk.-->
 
-eduScrumは、スクラムと同様に、経験的プロセス制御の理論（経験主義）を基本にしている。経験主義とは、実際の経験と既知にもとづく判断によって、知識が獲得できるというものだ。eduScrumでは、反復的かつ漸進的な手法を用いて、学習ゴールの達成可能性の最適化とリスクの管理を行う。
+eduScrumは、スクラムと同様に、経験的プロセス制御の理論（経験主義）を基本にしている。経験主義とは、実際の経験と既知にもとづく判断によって、知識が獲得できるというものだ。eduScrumでは、反復的かつ漸進的な手法を用いて、[[learning goal]]の達成可能性の最適化とリスクの管理を行う。
 
 <!-- Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation.-->
 
@@ -33,7 +33,7 @@ eduScrumでは、価値を高めることにフォーカスしている。価値
 
 <!--eduScrum users must frequently inspect eduScrum artifacts and progress toward Learning Goals to detect undesirable deviations. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by both teachers and students, at the location of the work itself (the classroom or practice area).-->
 
-eduScrumのユーザーは、eduScrumの作成物や学習ゴールに対する進捗を頻繁に検査して、好ましくない逸脱を検知する。ただし、検査を頻繁にやりすぎて、作業の妨げになるようではいけない。作業が行われる場所（教室や練習場）において、教師と学生の両方が念入りに行えば、検査は最大の効果をもたらすのである。
+eduScrumのユーザーは、eduScrumの作成物や[[learning goal]]に対する進捗を頻繁に検査して、好ましくない逸脱を検知する。ただし、検査を頻繁にやりすぎて、作業の妨げになるようではいけない。作業が行われる場所（教室や練習場）において、教師と学生の両方が念入りに行えば、検査は最大の効果をもたらすのである。
 
 
 <!-- ## Adaptation-->

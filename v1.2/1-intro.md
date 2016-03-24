@@ -42,7 +42,7 @@ Because of this
 students experience strong personal growth that strengthens their confidence in themselves and others. 
 The key to all this is ownership; the students have the freedom to determine their own learning process within given boundaries and learning goals. eduScrum does not only improve study results but also improves personal development and collaboration within a team. -->
 
-eduScrumでは、学習が主役となる。賢く学習して、みんなとうまく協調して、自分自身のことを理解する。それにより、責任感や楽しさやエネルギーが増加し、短い期間でよりよい結果が生まれるようになる。そして、学生たちは自分や他人に対する自信を持ち、より大きな成長を経験する。ここで重要となるのが「当事者意識」である。つまり、学生たちは与えられた境界線と学習ゴールのなかで、自分たちの学習プロセスを自分たちで決定する自由を持っている。eduScrumは学習成果を改善するだけでなく、個人の成長やチームの協調も改善するのである。
+eduScrumでは、学習が主役となる。賢く学習して、みんなとうまく協調して、自分自身のことを理解する。それにより、責任感や楽しさやエネルギーが増加し、短い期間でよりよい結果が生まれるようになる。そして、学生たちは自分や他人に対する自信を持ち、より大きな成長を経験する。ここで重要となるのが「当事者意識」である。つまり、学生たちは与えられた境界線と[[learning goal]]のなかで、自分たちの学習プロセスを自分たちで決定する自由を持っている。eduScrumは学習成果を改善するだけでなく、個人の成長やチームの協調も改善するのである。
 
 
 <!-- # Definition of eduScrum-->
@@ -50,7 +50,7 @@ eduScrumでは、学習が主役となる。賢く学習して、みんなとう
 
 <!-- eduScrum: A framework within which students can tackle complex adaptive problems, while productively and creatively achieving learning goals and personal growth of the highest possible value. eduScrum is: -->
 
-eduScrumは、学生たちが複雑適応系の問題に対応するためのフレームワークであり、可能な限り価値の高い学習ゴールと個人の成長を生産的かつ創造的に達成するためのものである。
+eduScrumは、学生たちが複雑適応系の問題に対応するためのフレームワークであり、可能な限り価値の高い[[learning goal]]と個人の成長を生産的かつ創造的に達成するためのものである。
 
 eduScrumとは、以下のようなものである。
 
@@ -69,7 +69,7 @@ eduScrum provides transparency on effectiveness of plans and the chosen approach
 eduScrum challenges students on self-organization and quality of work within a given time frame with clear learning goals. 
 -->
 
-最後に「習得は困難」があるのは、eduScrumが規定しているのは「何をするか」だけであり、「どうやるか」については何も触れていないためだ。eduScrumは学生をコーチングするためのプロセスや技法ではなく、そこにさまざまなプロセスや技法を取り入れることのできる「フレームワーク」である。eduScrumを活用すれば、計画および選択した手法の効果の透明性が確保される。それにより、学生たちは自ら改善できるようになる。eduScrumは、学生たちに自己組織化することを求めている。また、決められた時間内に明確な学習ゴールと成果を成し遂げることを求めている。
+最後に「習得は困難」があるのは、eduScrumが規定しているのは「何をするか」だけであり、「どうやるか」については何も触れていないためだ。eduScrumは学生をコーチングするためのプロセスや技法ではなく、そこにさまざまなプロセスや技法を取り入れることのできる「フレームワーク」である。eduScrumを活用すれば、計画および選択した手法の効果の透明性が確保される。それにより、学生たちは自ら改善できるようになる。eduScrumは、学生たちに自己組織化することを求めている。また、決められた時間内に明確な[[learning goal]]と成果を成し遂げることを求めている。
 
 
 <!-- With eduScrum quality (with respect to subject matter, collaboration and personal development) is constantly evolving during the school year. Students co-determine their own quality of work as a result of ownership. Ownership combined with continuous improvement leads to higher quality. In a Review the focus is on the "What" (subject matter). The Retrospective is about the “How” (collaboration, using personal qualities, personal development).-->

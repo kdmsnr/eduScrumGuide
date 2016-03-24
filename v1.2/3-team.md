@@ -17,7 +17,7 @@ eduScrumチームは、教師（プロダクトオーナー）と4人の学生�
 Incremental deliveries of “Done” learning results 
 ensure that a potentially good result towards the learning goals is always achievable.-->
 
-eduScrumチームは、学習結果を反復的・漸進的に届ける。これは、フィードバックと調整の機会を最大化するためである。「完成」した学習結果を漸進的に届けるのは、いずれは学習ゴールにつながる成果に常に手が届くようにしておくためである。
+eduScrumチームは、学習結果を反復的・漸進的に届ける。これは、フィードバックと調整の機会を最大化するためである。「完成」した学習結果を漸進的に届けるのは、いずれは[[learning goal]]につながる成果に常に手が届くようにしておくためである。
 
 <!--## The Product Owner-->
 ## プロダクトオーナー
@@ -96,7 +96,7 @@ With inexperienced Teams this is done in consultation with the Product Owner.
 Experienced teams do this autonomously. 
 This way the Student Teams keep getting better in defining their own quality criteria.
 -->
-学習ゴールの品質を守るために、学生チームは「完成の定義」を定義する。スプリントが始まる前に、作業がいつ「完成」するかを決めるのである。経験のないチームは、プロダクトオーナーと相談して決める。経験のあるチームは自分たちで決める。このようにして、学生チームは品質基準の定義を継続して改善していくのである。
+[[learning goal]]の品質を守るために、学生チームは「完成の定義」を定義する。スプリントが始まる前に、作業がいつ「完成」するかを決めるのである。経験のないチームは、プロダクトオーナーと相談して決める。経験のあるチームは自分たちで決める。このようにして、学生チームは品質基準の定義を継続して改善していくのである。
 
 <!-- ### 3. Evaluating the educational results -->
 ### 3. 教育結果の「評価」と「判断」
@@ -130,9 +130,9 @@ The Product Owner is the only person who is responsible for managing the Product
 -->
 
 * eduScrumについて生徒に最初に説明する（1回限り、2時間）。
-* スプリントゴールを定義する（今回のスプリントの学習ゴール）。
-* 受け入れ基準の定義と説明を行う：学習ゴールが達成されたかどうかを判断する受け入れ基準を明確に説明して、チームが個別に作業（実験・調査・プレゼンテーションなど）を開始できるようにする。
-* 学生チームをファシリテートする：学習ゴールと受け入れ基準の次は、疑問点を解消するときの参考になりそうな教材や背景資料について触れる。
+* スプリントゴールを定義する（今回のスプリントの[[learning goal]]）。
+* 受け入れ基準の定義と説明を行う：[[learning goal]]が達成されたかどうかを判断する受け入れ基準を明確に説明して、チームが個別に作業（実験・調査・プレゼンテーションなど）を開始できるようにする。
+* 学生チームをファシリテートする：[[learning goal]]と受け入れ基準の次は、疑問点を解消するときの参考になりそうな教材や背景資料について触れる。
 * 関係者全員がeduScrumのプロセスを追跡できるようにモニタリングする。
 
 <!--
@@ -149,7 +149,7 @@ Sometimes students have the freedom within the curriculum of the school to
 	partly determine their own learning goals. 
 In this case the Product Owner is still responsible for the final acceptance criteria, but the relation with core goals and final terms is much more relaxed. 
 -->
-学生は学校のカリキュラムのなかで、自分たちの学習ゴールをある程度は自由に決めることができる。その場合も、プロダクトオーナーが最終的な受け入れ基準に責任を持つことになるが、学習ゴールと最終試験との関連は緩やかなものとなる。
+学生は学校のカリキュラムのなかで、自分たちの[[learning goal]]をある程度は自由に決めることができる。その場合も、プロダクトオーナーが最終的な受け入れ基準に責任を持つことになるが、[[learning goal]]と最終試験との関連は緩やかなものとなる。
 
 <!--
 As product owner the teacher is a servant leader to the Student Teams. The product owner is also responsible for the propagation of the eduScrum philosophy. 
@@ -213,7 +213,7 @@ The team members are responsible together, as a team,
 	for complying with the acceptance criteria.
 -->
 
-学生チームは、スプリントの終わりまでに、決められた受け入れ基準を満たしながら、求められる学習ゴールを達成する自発的な学生で構成されている。チームメンバーはみんなで協力して、チームとして受け入れ基準を満たす責任がある。
+学生チームは、スプリントの終わりまでに、決められた受け入れ基準を満たしながら、求められる[[learning goal]]を達成する自発的な学生で構成されている。チームメンバーはみんなで協力して、チームとして受け入れ基準を満たす責任がある。
 
 <!--
 The Student Teams are structured and empowered 
@@ -243,8 +243,8 @@ Because of this the effectiveness and efficiency is greatly improved,
 5.	The Student Team tracks its own progress and quality level based on the acceptance criteria and the Definition of Done. 
 -->
 
-1. 自己組織化されている。学習ゴールを達成する方法は、誰も（プロダクトオーナーでさえも）教えてくれない。
-2. 複数の専門分野を持っている。学習ゴールを達成するために必要なスキルと個人の成長テーマをすべて備えている。
+1. 自己組織化されている。[[learning goal]]を達成する方法は、誰も（プロダクトオーナーでさえも）教えてくれない。
+2. 複数の専門分野を持っている。[[learning goal]]を達成するために必要なスキルと個人の成長テーマをすべて備えている。
 3. メンバーが特定のスキルや分野に特化していても、チーム全体として責任を担う。
 4. 品質に貢献したいか、それとも新しい分野を開発したいかを自分たちで決める。
 5. 受け入れ基準と完成の定義にもとづいて、自分たちの進捗と品質を管理する。
