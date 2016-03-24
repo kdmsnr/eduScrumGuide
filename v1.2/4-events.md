@@ -5,7 +5,7 @@
 Prescribed events are used in eduScrum to create regularity and predictability. All events are time-boxed events, such that every event has a maximum duration, ensuring an appropriate amount of time is spent without allowing waste in the process.
 -->
 
-事前に決められたイベントは、規則性と予測可能性を作り出すためにeduScrumで使用される。すべてのイベントは、時間に上限のあるタイムボックス化されたイベントである。これは、プロセスでムダなことをせずに、適切な分だけ時間を使うためである。 
+eduScurmでは、規則性と予測可能性を作り出すために、規定のイベントを使用する。すべてのイベントは、時間に上限のあるタイムボックス化されたイベントである。これは、プロセスでムダなことをすることなく、適切な分だけ時間を使うためである。
 
 <!--
 Other than the Sprint itself, which is a container for all other events, each event in Scrum is a formal opportunity to inspect and adapt something. These events are specifically designed to enable critical transparency and inspection. Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.
@@ -29,7 +29,7 @@ eduScrumの中心はスプリントである。これは、学習ゴールを達
 A Sprint has a predetermined time-box, usually two months or less. When this horizon is further away it becomes hard for the Student Teams 
 	to plan well and oversee the complexity.
 -->
-スプリントは事前にタイムボックス化されている。通常、2か月以下のタイムボックスである。これよりも長ければ、学生チームの計画や複雑性の調査が難しくなる。
+スプリントは事前にタイムボックス化されている。通常は、2か月以下のタイムボックスである。これより長ければ、学生チームによる計画や複雑性の管理が難しくなる。
 
 <!--
 The Sprint starts with a 
@@ -37,7 +37,7 @@ The Sprint starts with a
 		what they will be doing in that period. The Student Team at all times determines the “how”.
 -->
 
-スプリントはスプリントプランニングミーティングとチーム編成から始まる。学生チームはスプリントの期間に何をやるかを個別に決める。学生チームは常に「どうやるか」を決めるのである。
+スプリントは、スプリントプランニングミーティングとチーム編成から始まる。学生チームは、スプリントの期間に何をやるかを個別に決める。学生チームが常に「どうやるか」を決めるのである。
 
 <!--Sprints consist of:-->
 スプリントは、以下の内容で構成されている。
@@ -51,8 +51,8 @@ The Sprint starts with a
 -->
 
 * スプリントプランニングミーティング（チーム編成を含む）
-* 授業の開始時にスタンドアップ
-* スプリントにおける任務とタスクの実行
+* 授業の開始時に毎回スタンドアップ
+* スプリントでは課題やタスクの実施
 * スプリントレビュー
 * スプリントレトロスペクティブとパーソナルリフレクション
 
@@ -64,7 +64,7 @@ During the Sprint:
 		between the Product Owner and the Student Team 
 		as more is learned
 -->
-スプリントでは、以下のことを行わない。
+スプリントでは、以下のことを守らなければいけない。
 
 * 学生チームの編成は変更しない。
 * スコープは変更しない（品質については、プロダクトオーナーと学生チームが協議の上、変更されることもある）。
@@ -72,7 +72,7 @@ During the Sprint:
 <!--
 The sprint ends with a Review and Retrospective; inspecting work delivered and identifying possibilities for improvement. 
 -->
-スプリントはレビュー（届けられた成果の検査）とレトロスペクティブ（改善の可能性の特定）で終了する。
+スプリントの終わりには、レビュー（届けられた成果の検査）とレトロスペクティブ（改善の可能性の特定）を行う。
 
 <!--
 During a Sprint the Product Owner monitors and checks regularly
@@ -87,7 +87,7 @@ Just like in Scrum, in eduScrum we have the motto “Test in the Sprint”. The 
  		from testing each other to short educational games or competitions.
 -->
 
-スプリントでは、各チームが想定した品質を達成できているかをプロダクトオーナーが定期的に確認する。検査と適応が確実に実施されるように、定期的に追加のイベントを実施したり、タイムボックス化されたインターバルを維持したりするチームもある。スクラムと同様に、eduScrumのモットーは「スプリントのなかでテストする」である。プロダクトオーナーは、成果をテストすべきであることを定期的に強調し、学生チームが自分たちでテストするように促す。学生チームは、お互いにテストしたり、簡単な教育ゲームや競争をしたりするなど、あらゆる手法を考える。
+スプリントでは、想定した品質を各チームが達成できているかをプロダクトオーナーが定期的に確認する。検査と適応が確実に実施されるように、定期的に追加のイベントを実施したり、タイムボックス化されたインターバルを維持したりするチームもある。スクラムと同様に、eduScrumのモットーは「スプリントのなかでテストする」である。プロダクトオーナーは、成果をテストすべきであることを定期的に強調して、学生チームが自分たちでテストを行うように促す。学生チームは、お互いにテストをしたり、簡単な教育ゲームや競争を行ったりするなど、さまざまなテスト手法を考案する。
 
 <!--
 As Product Owner the teacher monitors the progress of each team. The "Flip" and the Burn Down Charts provide a quick overview.
@@ -106,7 +106,7 @@ A teacher can also include central explanation moments
 	to ensure the required results. This can be done for all teams or per Student Team.
 -->
 
-スクラムとは違い、eduScrumのスプリントは中止できない。求められる結果を達成できるように、任務（スコープ）が追加される可能性もあるが、あくまでも例外的な処置である。教師は学生チームのために全体説明の時間を確保することもできる。説明はチーム全体に対して行うこともできるし、特定のチームに対して行うこともできる。
+スクラムとは違い、eduScrumのスプリントは中止できない。求められる結果を達成できるように、課題（スコープ）が追加される可能性もあるが、あくまでも例外的な処置である。教師は学生チームのために、全体説明の時間を確保することもできる。説明はチーム全体に対して行うこともあれば、特定のチームに対して行うこともある。
 
 
 
@@ -148,7 +148,7 @@ To achieve good team compositions the following criteria are important:
 -->
 * チームメンバーの特性を補完的なものにする。
 * 男女の比率のバランスをとる。
-* 前回とは異なる編成にする。
+* 前回の課題とは異なる編成にする。
 * 友達同士のチームは好ましくない。
 
 <!--
@@ -176,7 +176,7 @@ If the work turns out to be different
 	than the Student Team expected 
 	they will work with the Product Owner to restructure the tasks and assignments in such a way that the learning goals can once more be achieved.-->
 
-学生チームは作業のなかで、常に学習ゴールを意識する。任務やタスクは学習ゴールを達成するために行われる。学生チームの作業が期待するものではなかった場合は、プロダクトオーナーと協議して、学習ゴールが達成できるようにタスクや任務の再編成を行う。
+学生チームは作業のなかで、常に学習ゴールを意識する。課題やタスクは学習ゴールを達成するために行われる。学生チームの作業が期待するものではなかった場合は、プロダクトオーナーと協議して、学習ゴールが達成できるようにタスクや課題の再編成を行う。
 
 <!--
 The learning goals are part of the formal Core Goals or Final Terms and can as  such be seen as milestones in the progress of the Student (Teams).
@@ -202,7 +202,7 @@ The creation of this plan
 	hand in date, 
 	evaluation models and so on. 
 The Product Owner sets the boundaries within which the students can claim ownership and create their planning.-->
-最初に教師が任務の概要（授業の回数、スプリントに含まれる授業の回数、全体説明の時期、課題の提出日、評価モデルなど）を説明する。プロダクトオーナーは、学生が自主的に計画を作成できる範囲を決めておく。
+最初に教師が課題の概要（授業の回数、スプリントに含まれる授業の回数、全体説明の時期、課題の提出日、評価モデルなど）を説明する。プロダクトオーナーは、学生が自主的に計画を作成できる範囲を決めておく。
 
 <!--
 The Sprint Planning Meeting is a time box of two classes for a Sprint of approximately two months. This time box is usually also needed for shorter Sprints.
@@ -326,7 +326,7 @@ The Student Teams display what they have learned in the last Sprint, this should
 	be checked against the Learning Goal and Definition of Done. The manner of presentation depends on the Learning Goals and the acceptance criteria.
 -->
 
-スプリントレビューはスプリントの終わりに行う。最終評価と同じ意味である。
+スプリントレビューはスプリントの終わりに行う。最終課題と同じ意味である。
 学生チームはスプリントで学んだことを提示する。
 これは学習ゴールと完成の定義を考慮してチェックされるべきである。
 プレゼンテーションの方法は学習ゴールと受け入れ基準によって決まる。
@@ -368,7 +368,7 @@ Any delay of the Retrospective is a possible missed opportunity for improvement 
 スプリントレトロスペクティブは、スプリントレビューが終わったらすぐに行う。
 レトロスペクティブは完全に行うべきである★。
 チームと個人が自分たちの改善計画を作り、
-次のスプリントの準備をするところである。
+次のスプリントの課題の準備をするところである。
 レトロスペクティブは、
 学年の[[final assignment]]★が利用可能になったらすぐに行うべきである。
 レトロスペクティブが遅れると、
