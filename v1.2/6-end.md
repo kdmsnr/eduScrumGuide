@@ -18,22 +18,41 @@ eduScrumは無料であり、本ガイドで提供されるものである。edu
 <!--## People behind eduScrum-->
 ## eduScrumの中の人たち
 
-“We have great faith in young people. We are convinced that they wish more and are more capable than they themselves or many adults believe. eduScrum ensures that students get the most out of themselves and their team. That is what makes education worthwhile for anyone involved! The result is that young people respect each other as they are. So we hope that we can contribute to a better world.”
+<!-- “We have great faith in young people.
+ We are convinced
+    that they wish more and
+    are more capable
+    than they themselves or many adults believe.
+ eduScrum ensures that students
+    get the most out of themselves and their team.
+ That is what makes education worthwhile for anyone involved!
+ The result is that young people respect each other as they are.
+ So we hope that we can contribute to a better world.” -->
 
-The eduScrum team: [http://eduscrum.nl/eduscrum-team](http://eduscrum.nl/eduscrum-team)
+> 我々は、若い人たちを大いに信じている。若い人たちは自分たちが考えるよりも、多くの大人が考えるよりも、ずっと多くのことを願い、より大きな能力を持っている。我々はそう確信している。eduScrumは、若い人たちとチームの能力を徹底的に引き出すものである。教育に携わるあらゆる人にとって、教育が価値あるものとなるだろう！若い人たちは、ありのままの姿をお互いに尊重できるようになる。素晴らしい世界の実現のために貢献できることを願っている。
+
+
+<!--The eduScrum team:-->
+eduScrumチーム：[http://eduscrum.nl/eduscrum-team](http://eduscrum.nl/eduscrum-team)
 
 <!--### The students:-->
 ### 学生たち
 
-Most of the ideas to improve eduScrum come from the students themselves. We implemented their ideas and creativity. 
+<!-- Most of the ideas to improve eduScrum come from the students themselves. We implemented their ideas and creativity.  -->
+
+eduScrumの改善アイデアの多くは、学生たちからもらったものだ。我々は学生たちのアイデアや創造性を現実のものとしたのである。
 
 <!--## eduScrum Foundation and Friends of eduScrum-->
 ## eduScrum協会とeduScrumの仲間たち
 
-Further development of eduScrum is made possible with the help of the Friends of eduScrum. 
+<!-- Further development of eduScrum is made possible with the help of the Friends of eduScrum.  -->
+eduScrumの今後の発展には、eduScrumの仲間たちの支援が必要になる。
 
-Our partners are: Jeff and Arline Sutherland (Scrum Inc.), Ashram College, Schuberg Philis, Xebia, Tele 2, Prowareness.
+<!-- Our partners are: Jeff and Arline Sutherland (Scrum Inc.), Ashram College, Schuberg Philis, Xebia, Tele 2, Prowareness. -->
 
-For further reading please visit:
+我々のパートナーを紹介したい：Jeff and Arline Sutherland (Scrum Inc.)、Ashram College、Schuberg Philis、Xebia、Tele 2、Prowareness。
 
-http://www.eduscrum.nl
+<!-- For further reading please visit: -->
+もっと詳しい情報を知りたければ、以下を参照してほしい。
+
+[http://www.eduscrum.nl](http://www.eduscrum.nl)
