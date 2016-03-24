@@ -376,7 +376,7 @@ Any delay of the Retrospective is a possible missed opportunity for improvement 
        performs its work.
 -->
 * 人・関係・プロセス・ツールの観点から、今回のスプリントを検査する。
-* うまくいった項目や今後の改善が必要な項目を特定・整理する。
+* うまくいったことや今後の改善が必要なことを特定・整理する。
 * 学生チームの作業の改善実施計画を作成する。
 
 <!--The Sprint Retrospective consists of three parts:-->
