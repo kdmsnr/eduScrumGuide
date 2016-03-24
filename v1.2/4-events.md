@@ -360,15 +360,10 @@ This Retrospective should be held as soons as
 Any delay of the Retrospective is a possible missed opportunity for improvement of the Teams and Indviduals for the current Sprint. 
 -->
 
-スプリントレトロスペクティブは、学生チームが自分たちを検査する機会である。
-スプリントレトロスペクティブは、スプリントレビューが終わったらすぐに行う。
-レトロスペクティブは完全に行うべきである★。
-チームと個人が自分たちの改善計画を作り、
-次のスプリントの課題の準備をするところである。
-レトロスペクティブは、
-学年の[[final assignment]]★が利用可能になったらすぐに行うべきである。
-レトロスペクティブが遅れると、
-今回のスプリントにおけるチームと個人の改善の機会を逃してしまう。
+スプリントレトロスペクティブは、学生チームが自分たちを検査する機会である。スプリントレトロスペクティブは、スプリントレビューが終わったあとに開催する。[[final assignment]]の成績が確定したら、できるだけ早く行うべきである。レトロスペクティブが遅れると、今回のスプリントにおけるチームと個人の改善の機会を逃してしまう。レトロスペクティブは網羅的に行うべきである。レトロスペクティブは、チームと個人が自分（たち）の改善計画を作り、次のスプリントの課題の準備をする場である。
+
+
+<!-- ↑ 流れが変なので文の順番を変えた -->
 
 
 <!--The goal of this Sprint Retrospective is:-->
@@ -380,8 +375,8 @@ Any delay of the Retrospective is a possible missed opportunity for improvement 
 	to create a plan to implement improvements of the way in which the Student Team  
        performs its work.
 -->
-* 人・関係・プロセス・ツールの観点から今回のスプリントを検査する。
-* うまくいった項目や今後の改善が必要な項目を特定・整理する。★
+* 人・関係・プロセス・ツールの観点から、今回のスプリントを検査する。
+* うまくいった項目や今後の改善が必要な項目を特定・整理する。
 * 学生チームの作業の改善実施計画を作成する。
 
 <!--The Sprint Retrospective consists of three parts:-->
@@ -393,14 +388,14 @@ Any delay of the Retrospective is a possible missed opportunity for improvement 
 3.	The team discusses what they should stop doing
 -->
 
-1. 学生が方法論とチームの働きぶりを評価して、改善点を特定する。
-2. 学生がチームメンバー（自分自身も含む）のスキルと改善点を評価する。
-3. チームがやめるべきことを議論する。
+1. 学生たちが、方法論とチームの働き方を評価して、改善点を特定する。
+2. 学生たちが、チームメンバー（自分自身も含む）のスキルと改善点を評価する。
+3. 学生チームが、チームがやめるべきことを議論する。
 
-<!--Consequently, the students are learning together to learn effectively and efficiently. The Sprint Retrospective is therefore a very important and essential part of the eduScrum process and it must certainly not be omitted. It takes place after the whole Sprint has been finished.-->
-その結果、学生は効果的に効率的に学ぶことをみんなで一緒に学ぶ。
-スプリントレトロスペクティブは、
-eduScrumのプロセスにおいて非常に重要で欠かせないものであり、絶対に省略してはいけない。スプリント全体が終わったあとに実施する。
+<!--Consequently, the students are learning together
+          to learn effectively and efficiently.
+The Sprint Retrospective is therefore a very important and essential part of the eduScrum process and it must certainly not be omitted. It takes place after the whole Sprint has been finished.-->
+その結果、学生は効果的かつ効率的に学習することをみんなと一緒に学習できる。スプリントレトロスペクティブは、eduScrumのプロセスにおいて非常に重要で不可欠なものであり、絶対に省略してはいけない。レトロスペクティブはスプリントがすべて終わったあとに実施する。
 
 <!--
 The Student Team individually and collectively answers the following four questions:
@@ -415,7 +410,7 @@ The Student Team individually and collectively answers the following four questi
 -->
 
 1. うまくいったことは何か？
-2. もっとうまくできる、あるいはやるべきことは何か？
+2. もっとうまくできること、もっとうまくやるべきことは何か？
 3. これ以上やるべきではないことは何か？
 4. 次のスプリントで行う活動は何か？
 
