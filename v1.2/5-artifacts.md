@@ -84,26 +84,37 @@ By tracking the remaining work throughout the Sprint,
 ## 「完成」の定義
 
 <!--
-When a Learning Goal or a Learning Story item is described as “Done”, everyone must understand what “Done” means. Although this varies significantly per Student Team, members must have a shared understanding of what it means for work to be complete, to ensure transparency. This “Definition of Done” for the Student Team is used to assess when work is complete for the Learning Goal.
+When a Learning Goal or a Learning Story item is described as “Done”, everyone must understand what “Done” means.
+Although this varies significantly per Student Team, members must have a shared understanding of what it means for work to be complete,
+   to ensure transparency. This “Definition of Done” for the Student Team is used to assess when work is complete for the Learning Goal.
 -->
-[[learning goal]]や学習ストーリーの「完成」を決めるときには、全員がその「完成」の意味を理解しておかなければいけない。学生チームによってその意味は大きく異なるが、勉強の完成についてメンバーが共通の理解を持ち、透明性を確保しなければいけない。これは、学生チームの『「完成」の定義』と呼ばれ、[[learning goal]]の勉強の完成の評価に使われる。
+[[learning goal]]や学習ストーリーアイテムの「完成」を決めるときには、全員がその「完成」の意味を理解しておかなければいけない。学生チームによってその意味は大きく異なるが、メンバーが共通の理解を持ち、透明性を確保しなければいけない。これは、学生チームの『「完成」の定義』と呼ばれ、[[learning goal]]の到達の評価に使われる。
 
 <!-- ### Learning Goal -->
 ### [[learning goal]]
 
 <!--
-The Learning Goal is the sum of all the items to be completed during a Sprint. At the end of a Sprint, the Learning Goal must be “Done,” which means it must meet the predefined acceptance criteria, where the goal is to get a grade that denotes comprehension of the Learning Goal (which is more or less two thirds of the learning material). Even though a 5.5 (on an scale from 1 – 10) is sufficient to pass to the next Sprint/Period/School Year, that does not by definition indicate comprehension of the Learning Goal. 
+The Learning Goal is the sum of all the items to be completed during a Sprint. At the end of a Sprint, the Learning Goal must be “Done,” which means it must meet the predefined acceptance criteria,
+where the goal is to get a grade
+     that denotes comprehension of the Learning Goal (which is more or less two thirds of the learning material).
+
+Even though a 5.5 (on an scale from 1 – 10) is sufficient to pass to the next Sprint/Period/School Year, that does not by definition indicate comprehension of the Learning Goal. 
 -->
-[[learning goal]]とは、今回のスプリントで完成させるアイテムのすべてを合わせたものである。スプリントの終わりには、[[learning goal]]が「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ基準を満たしたことを意味し、[[learning goal]]の理解度（学習教材のおよそ2/3）を成績で示すことが達成目標となる。次のスプリント・学期・年度に進むには10段階評価で5.5をとれば足りるが、当然ながらそれは[[learning goal]]の理解力を示すものではない。
+[[learning goal]]とは、今回のスプリントで完成したすべてのアイテムを合わせたものである。スプリントの終わりには、[[learning goal]]が「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ基準を満たしていることを意味する。ここでの達成目標は、[[learning goal]]（学習教材のおよそ2/3）を理解していることを示す成績をとることだ。次のスプリント・学期・学年に進むには、10段階評価で5.5を取れば十分かもしれあにが、当然ながらそれは[[learning goal]]の理解度を示すものではない。
 
 <!--
-The same definition guides the Student Team with planning and decomposing during the Sprint Planning Meeting. The purpose of each Sprint is to accomplish Learning Goals that adhere to the current Definition of “Done” of the Student Team at the highest quality possible.   
+The same definition
+   guides the Student Team with planning and decomposing
+   during the Sprint Planning Meeting.
+The purpose of each Sprint is to accomplish Learning Goals
+    that adhere to the current Definition of “Done” of the Student Team
+	at the highest quality possible.   
 -->
-この定義は、学生チームがスプリントプランニングミーティングで計画し細分化を行うときの指針にもなる。各スプリントの目的は、そのときの「完成」の定義にあった[[learning goal]]を、可能な限り高い品質で達成することである。
+学生チームがスプリントプランニングミーティングで計画や細分化を行うときにも、この定義が指針になる。各スプリントの目的は、そのときの「完成」の定義にあった[[learning goal]]を可能な限り高い品質で達成することである。
 
 <!--
 Important questions to arrive at a useful Definition of “Done” are:-->
-有用な「完成」の定義を引き出すには、以下のような質問をすることが重要だ。
+有益な「完成」の定義を引き出すには、以下のような質問をすることが重要だ。
 
 <!--
 	How do you check whether you are really done?
@@ -111,22 +122,24 @@ Important questions to arrive at a useful Definition of “Done” are:-->
 	But also, when is it not done?
 -->
 
-* 本当に完成したかどうか、どのようにして確認するのか。
-* 完全に完成したものは、どんな基準を満たしているはずか。
-* また、完成していない場合ではどうか。
+* 本当に完成したかどうかをどのように確認するのか？
+* 完全に完成したものはどのような基準を満たしているべきか？
+* 完成していない場合はどうか？
 
 <!--
 De Student Teams are themselves responsible for setting up their Definition of “Done”. Since setting up a Definition of “Done” is also part of the learning process, it may be changed based on the output of the retrospectives. In that way, new insights can be assimilated into the process to get better results.
 -->
-学生チームは自分たちの「完成」の定義を設定することに自ら責任を持つ。「完成」の定義の設定は学習プロセスの一部なので、レトロスペクティブの結果次第で変化する。そういった意味で、新しい知見がプロセスに取り込まれることによって、より良い結果が生まれていく。
+学生チームは、自分たちの「完成」の定義を設定することに責任を持つ。「完成」の定義の設定も学習プロセスの一部なので、レトロスペクティブの結果次第で変化する可能性がある。このように新しい知見がプロセスに取り込まれることで、よりよい結果が生まれていくのである。
 
 <!-- ## The Definition of Fun -->
 ## 楽しさの定義
 
 <!--
-An addition to the Definition of “Done” is the Definition of “Fun”. Fun is an important motivator for students and is therefore essential for getting better learning results. Hence, students should also indicate what they need to have fun during the work they are doing. “Need” in this context may be interpreted best in the broad sense of the word: what should be there to ensure enjoyable work. Often the output of a retrospective offers clues for the Definition of “Fun”. The Definition of Fun list is also a ‘living document’ and may be changed or expanded frequently.
+An addition to the Definition of “Done” is the Definition of “Fun”. Fun is an important motivator for students and is therefore essential for getting better learning results.
+Hence, students should also indicate what they need to have fun during the work they are doing.
+“Need” in this context may be interpreted best in the broad sense of the word: what should be there to ensure enjoyable work. Often the output of a retrospective offers clues for the Definition of “Fun”. The Definition of Fun list is also a ‘living document’ and may be changed or expanded frequently.
 -->
-「完成」の定義に付け加えられるべきは、「楽しさ」の定義である。楽しさは学生にとって重要なモチベーターであって、良い成績をとるためには不可欠なものである。それゆえ、楽しみながら勉強するには何が必要か、学生は表明する必要がある。ここでいう「必要」とは、できるだけ良い広義の意味で理解する必要がある。つまり、楽しい勉強のためになくてはならないものを指す。レトロスペクティブから「楽しさ」の定義のヒントが生まれることはよくある。楽しさの定義は「生きたドキュメント」でもあり、頻繁に変更されたり拡張されることがある。
+「完成」の定義に付け加えるべきは、「楽しさ」の定義である。学生にとって楽しさは重要な動機づけであり、優れた成績をとるためには不可欠なものである。それゆえ、楽しみながら作業するには何が必要かを学生は表明しなければいけない。ここでいう「必要」とは、できるだけ広義の意味で理解すべきである。つまり、楽しい作業のためになくてはならないものを指す。レトロスペクティブから「楽しさ」の定義のヒントが生まれることもよくある。楽しさの定義は「生きたドキュメント」であり、頻繁に変更や拡張が行われるのである。
 
 
 <!-- EOF -->
