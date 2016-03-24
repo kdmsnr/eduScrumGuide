@@ -100,7 +100,7 @@ where the goal is to get a grade
 
 Even though a 5.5 (on an scale from 1 – 10) is sufficient to pass to the next Sprint/Period/School Year, that does not by definition indicate comprehension of the Learning Goal. 
 -->
-[[learning goal]]とは、今回のスプリントで完成したすべてのアイテムを合わせたものである。スプリントの終わりには、[[learning goal]]が「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ基準を満たしていることを意味する。ここでの達成目標は、[[learning goal]]（学習教材のおよそ2/3）を理解していることを示す成績をとることだ。次のスプリント・学期・学年に進むには、10段階評価で5.5を取れば十分かもしれあにが、当然ながらそれは[[learning goal]]の理解度を示すものではない。
+[[learning goal]]とは、今回のスプリントで完成したすべてのアイテムを合わせたものである。スプリントの終わりには、[[learning goal]]が「完成」されていなければいけない。つまり、あらかじめ定義された受け入れ基準を満たしていることを意味する。ここでの達成目標は、[[learning goal]]（学習教材のおよそ2/3）を理解していることを示す成績をとることだ。次のスプリント・学期・学年に進むには、10段階評価で5.5を取れば十分かもしれないが、当然ながらそれは[[learning goal]]の理解度を示すものではない。
 
 <!--
 The same definition
