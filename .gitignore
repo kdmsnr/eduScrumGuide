@@ -2,6 +2,7 @@
 
 # Word temporary
 ~$*.doc*
+~$*.dot*
 
 # Excel temporary
 ~$*.xls*
