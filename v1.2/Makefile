@@ -12,7 +12,7 @@ html: clean
 
 clean:
 	rm -f *.html
-	rm -f *.docx
+	rm -f The_eduScrum_Guide_1.2_ja.docx
 	rm -f tmp.md
 	rm -f tmp_replaced.md
 
